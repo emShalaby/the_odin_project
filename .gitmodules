@@ -1,3 +1,6 @@
 [submodule "cv_generator"]
 	path = cv_generator
 	url = git@github.com:emShalaby/cv_generator.git
+[submodule "shopping_cart"]
+	path = shopping_cart
+	url = git@github.com:emShalaby/shopping_cart.git
