@@ -22,3 +22,6 @@
 [submodule "Tic-Tac-Toe"]
 	path = Tic-Tac-Toe
 	url = https://github.com/emShalaby/Tic-Tac-Toe.git
+[submodule "library"]
+	path = library
+	url = https://github.com/emShalaby/library.git
