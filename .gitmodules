@@ -13,3 +13,6 @@
 [submodule "memory_game"]
 	path = memory_game
 	url = https://github.com/emShalaby/memory_game.git
+[submodule "old_projects_redo"]
+	path = old_projects_redo
+	url = https://github.com/emShalaby/old_projects_redo.git
