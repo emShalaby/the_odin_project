@@ -10,3 +10,6 @@
 [submodule "testing_practice"]
 	path = testing_practice
 	url = https://github.com/emShalaby/testing_practice.git
+[submodule "memory_game"]
+	path = memory_game
+	url = https://github.com/emShalaby/memory_game.git
