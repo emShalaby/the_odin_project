@@ -34,3 +34,6 @@
 [submodule "etch-a-sketch"]
 	path = etch-a-sketch
 	url = https://github.com/emShalaby/etch-a-sketch.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/emShalaby/Calculator.git
