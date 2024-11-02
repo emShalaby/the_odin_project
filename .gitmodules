@@ -37,3 +37,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/emShalaby/Calculator.git
+[submodule "Restricted-ROCK-PAPER-SCISSORS"]
+	path = Restricted-ROCK-PAPER-SCISSORS
+	url = https://github.com/emShalaby/Restricted-ROCK-PAPER-SCISSORS.git
