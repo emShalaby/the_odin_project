@@ -19,3 +19,6 @@
 [submodule "to_do_list"]
 	path = to_do_list
 	url = https://github.com/emShalaby/to_do_list.git
+[submodule "Tic-Tac-Toe"]
+	path = Tic-Tac-Toe
+	url = https://github.com/emShalaby/Tic-Tac-Toe.git
