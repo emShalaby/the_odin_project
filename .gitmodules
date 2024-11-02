@@ -25,3 +25,6 @@
 [submodule "library"]
 	path = library
 	url = https://github.com/emShalaby/library.git
+[submodule "Dashboard"]
+	path = Dashboard
+	url = https://github.com/emShalaby/Dashboard.git
