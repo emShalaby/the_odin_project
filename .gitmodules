@@ -4,3 +4,6 @@
 [submodule "shopping_cart"]
 	path = shopping_cart
 	url = git@github.com:emShalaby/shopping_cart.git
+[submodule "battleship"]
+	path = battleship
+	url = https://github.com/emShalaby/battleship.git
