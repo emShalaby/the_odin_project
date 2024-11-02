@@ -7,3 +7,6 @@
 [submodule "battleship"]
 	path = battleship
 	url = https://github.com/emShalaby/battleship.git
+[submodule "testing_practice"]
+	path = testing_practice
+	url = https://github.com/emShalaby/testing_practice.git
