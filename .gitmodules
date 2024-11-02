@@ -31,3 +31,6 @@
 [submodule "odin-webpage"]
 	path = odin-webpage
 	url = https://github.com/emShalaby/odin-webpage.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/emShalaby/etch-a-sketch.git
