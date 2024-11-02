@@ -28,3 +28,6 @@
 [submodule "Dashboard"]
 	path = Dashboard
 	url = https://github.com/emShalaby/Dashboard.git
+[submodule "odin-webpage"]
+	path = odin-webpage
+	url = https://github.com/emShalaby/odin-webpage.git
