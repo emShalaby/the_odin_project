@@ -16,3 +16,6 @@
 [submodule "old_projects_redo"]
 	path = old_projects_redo
 	url = https://github.com/emShalaby/old_projects_redo.git
+[submodule "to_do_list"]
+	path = to_do_list
+	url = https://github.com/emShalaby/to_do_list.git
